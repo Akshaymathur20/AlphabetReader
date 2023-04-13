@@ -10,13 +10,13 @@ h1 {
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
 
-}
+} 
 footer {
   color: #DBEDF3;
   font-family: sans-serif;
 }
 
-.w {
+/* .w {
   background-image: url(images/apple.jpg);
 
 }
@@ -43,7 +43,7 @@ footer {
 
 .l {
   background-image: url(images/kick.png);
-}
+} */
 
 .set {
   margin: 10% auto;
