@@ -124,17 +124,17 @@ function makeSound(key){
 
         case "u":
             var alphaU = new Audio("sound/U.mp3");
-            alphaAU.play();
+            alphaU.play();
         break;
 
         case "v":
             var alphaV = new Audio("sound/V.mp3");
-            snare.play();
+            alphaV.play();
         break;
 
         case "w":
-            var alphaAW = new Audio("sound/W.mp3");
-            crash.play();
+            var alphaW = new Audio("sound/W.mp3");
+            alphaW.play();
         break;
 
         case "x":
